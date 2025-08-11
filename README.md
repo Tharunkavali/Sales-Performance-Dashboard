@@ -23,8 +23,11 @@ It provides key KPIs, trend analysis, and a geographical breakdown of sales.
 5. **Map Visualization**: Geographic sales distribution
 
 ##  Screenshots
-C:\Users\tkavali\Desktop\Screenshots_New_Project
-
+1. Dashboard_Overview
+2. Sales by customer name
+3. Sales and Profit by Region
+4. Sales and Profit by State and Region map
+5. Sales and Profit by Year
 ##  Files
 - `Sales_Performance_Dashboard.pbix` → Power BI project
 - `Superstore_Cleaned.xlsx` → cleaned dataset
